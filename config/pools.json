@@ -35,10 +35,10 @@
     "projectLink": "https://digidex.finance/",
     "twitter": "https://twitter.com/digichaincoin",
     "harvest": true,
-    "tokenPerBlock": "0000025",
+    "tokenPerBlock": "2.5",
     "sortOrder": 1,
     "isFinished": false,
-    "tokenDecimals": 9
+    "tokenDecimals": 18
   }
   
 ]
