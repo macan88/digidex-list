@@ -1,1 +1,1 @@
-# apeswap-lists
+# digidex-lists
