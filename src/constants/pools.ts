@@ -11,7 +11,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 0,
     tokenName: tokens.digichain.symbol,
-    image: 'DIGICHAIN.svg',
+    image: 'DIGICHAIN.png',
     stakingToken: tokens.digichain,
     rewardToken: tokens.digichain,
     contractAddress: {
@@ -30,7 +30,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 21,
     tokenName: 'DIGICHAIN',
-    image: 'DIGICHAIN.svg',
+    image: 'DIGICHAIN.png',
     stakingToken: tokens.gdigi,
     rewardToken: tokens.digichain,
     contractAddress: {
@@ -2806,7 +2806,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 96,
     tokenName: 'DIGICHAIN',
-    image: 'DIGICHAIN.svg',
+    image: 'DIGICHAIN.png',
     stakingToken: tokens.obie,
     rewardToken: tokens.digichain,
     contractAddress: {

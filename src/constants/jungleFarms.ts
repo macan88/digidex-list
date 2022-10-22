@@ -10,7 +10,7 @@ const jungleFarms: JungleFarmConfig[] = [
   {
     jungleId: 1,
     tokenName: 'DIGICHAIN-TLOS',
-    image: 'DIGICHAIN.svg',
+    image: 'DIGICHAIN.png',
     stakingToken: tokens.digichainTlos,
     rewardToken: tokens.tlos,
     lpTokens: {
