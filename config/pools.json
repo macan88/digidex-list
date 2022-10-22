@@ -31,11 +31,11 @@
       "56": "0x58d11569986A3f44b80f81AB7657d34C96E60418",
       "97": "0x58d11569986A3f44b80f81AB7657d34C96E60418"
     },
-    "poolCategory": "DIGIZONE",
+    "poolCategory": "BINANCE",
     "projectLink": "https://digidex.finance/",
     "twitter": "https://twitter.com/digichaincoin",
     "harvest": true,
-    "tokenPerBlock": "50",
+    "tokenPerBlock": "8.5",
     "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 9
