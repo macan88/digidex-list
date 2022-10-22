@@ -1,6 +1,6 @@
 [
   {
-    "sousId": 0,
+    "sousId": 21,
     "tokenName": "DIGICHAIN",
     "image": "DIGICHAIN.png",
     "stakingToken": {
@@ -31,14 +31,14 @@
       "56": "0x58d11569986A3f44b80f81AB7657d34C96E60418",
       "97": "0x58d11569986A3f44b80f81AB7657d34C96E60418"
     },
-    "poolCategory": "Core",
+    "poolCategory": "DIGIZONE",
     "projectLink": "https://digidex.finance/",
     "twitter": "https://twitter.com/digichaincoin",
     "harvest": true,
-    "tokenPerBlock": "2.5",
+    "tokenPerBlock": "0.150000000000000000",
     "sortOrder": 1,
     "isFinished": false,
-    "tokenDecimals": 18
+    "tokenDecimals": 9
   }
   
 ]
